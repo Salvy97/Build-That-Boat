@@ -1,0 +1,6 @@
+Name=Ciottolo di Pietra
+Description=Ciottolo raccolto da una/grossa pietra. Utile per/craftare qualcosa.
+isEquipable=0
+isConsumable=0
+armorValue=0
+durability=-1

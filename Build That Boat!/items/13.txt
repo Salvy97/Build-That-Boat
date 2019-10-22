@@ -1,0 +1,6 @@
+Name=Ferro
+Description=Il classico vecchio amico/ferro! Molto resistente e/molto efficace.
+isEquipable=0
+isConsumable=0
+armorValue=0
+durability=-1

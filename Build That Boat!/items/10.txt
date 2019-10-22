@@ -1,0 +1,6 @@
+Name=Legno Lavorato
+Description=Del legno lavorato, utile/per craftare.
+isEquipable=0
+isConsumable=0
+armorValue=0
+durability=-1

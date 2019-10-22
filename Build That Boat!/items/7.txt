@@ -1,0 +1,6 @@
+Name=Arco
+Description=Un arco da caccia. Letale/dalla distanza, poco sicuro/da vicino.
+isEquipable=1
+isConsumable=0
+armorValue=0
+durability=16

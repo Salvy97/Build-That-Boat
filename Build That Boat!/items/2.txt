@@ -1,0 +1,6 @@
+Name=Orecchio di Goblin
+Description=Un orecchio di Goblin./Drop raro di quei/mostriciattoli verdi.
+isEquipable=0
+isConsumable=0
+armorValue=0
+durability=-1

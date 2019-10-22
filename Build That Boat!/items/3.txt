@@ -1,0 +1,6 @@
+Name=Corno di Troll
+Description=Accertati che il tuo/partner non veda questo...
+isEquipable=0
+isConsumable=0
+armorValue=0
+durability=-1

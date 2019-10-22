@@ -1,0 +1,6 @@
+Name=Fiore Rosso
+Description=Uno strano fiore rosso./Potrebbe essere utile/per realizzare pozioni/di salute.
+isEquipable=0
+isConsumable=0
+armorValue=0
+durability=-1

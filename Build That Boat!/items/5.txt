@@ -1,0 +1,6 @@
+Name=Armatura di Legno
+Description=Un'armatura realizzata in/legno massiccio. Non molto/protettiva.
+isEquipable=0
+isConsumable=0
+armorValue=25
+durability=12

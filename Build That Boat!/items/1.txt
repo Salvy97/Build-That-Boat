@@ -1,0 +1,6 @@
+Name=Spada di Pietra
+Description=Una spada costruita con/ciottoli di pietra, possiede/una solida impugnatura/in legno.
+isEquipable=1
+isConsumable=0
+armorValue=0
+durability=16

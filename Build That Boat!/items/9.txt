@@ -1,0 +1,6 @@
+Name=Armatura di Goblin
+Description=Un'armatura realizzata in.../orecchie di goblin!? Strano,/ma sembra essere efficace/perlomeno...
+isEquipable=0
+isConsumable=0
+armorValue=60
+durability=24

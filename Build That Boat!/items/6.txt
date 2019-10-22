@@ -1,0 +1,6 @@
+Name=Fiore Verde
+Description=Una foglia raccolta da una/pianta. Sembra resistente.
+isEquipable=0
+isConsumable=0
+armorValue=0
+durability=-1

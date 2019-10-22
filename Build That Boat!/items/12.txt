@@ -1,0 +1,6 @@
+Name=Ascia di Pietra
+Description=Raccogliere legna non è/mai stato cosi facile!
+isEquipable=1
+isConsumable=0
+armorValue=0
+durability=16

@@ -1,0 +1,6 @@
+Name=Fiore Giallo
+Description=Questo inusuale fiore giallo/sembra avere grandi/proprietà ringiovanenti.
+isEquipable=0
+isConsumable=0
+armorValue=0
+durability=-1

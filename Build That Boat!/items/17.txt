@@ -1,0 +1,6 @@
+Name=Coppa di Legno
+Description=Una coppa di legno, utile/per contenere liquidi/o pozioni.
+isEquipable=0
+isConsumable=0
+armorValue=0
+durability=-1

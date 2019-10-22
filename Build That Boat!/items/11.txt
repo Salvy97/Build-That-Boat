@@ -1,0 +1,6 @@
+Name=Piccone di Legno
+Description=Un piccone di legno, utile/per rompere la pietra.
+isEquipable=1
+isConsumable=0
+armorValue=0
+durability=12

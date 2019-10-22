@@ -1,0 +1,6 @@
+Name=Piccone di Pietra
+Description=Un piccone di pietra capace/di spaccare una vena/di ferro.
+isEquipable=1
+isConsumable=0
+armorValue=0
+durability=24

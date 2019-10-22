@@ -1,0 +1,6 @@
+Name=Pozione di Vigore
+Description=Questa pozione aumenta la/rigenerazione del vigore/per un periodo limitato.
+isEquipable=0
+isConsumable=1
+armorValue=0
+durability=-1

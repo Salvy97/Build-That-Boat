@@ -1,0 +1,6 @@
+Name=Carne di Cervo
+Description=Della carne di Cervo, buona e/ ricca di proteine!
+isEquipable=0
+isConsumable=1
+armorValue=0
+durability=--1

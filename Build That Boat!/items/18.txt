@@ -1,0 +1,6 @@
+Name=Pozione di Salute
+Description=Bevila e ti sentirai meglio!
+isEquipable=0
+isConsumable=1
+armorValue=0
+durability=-1

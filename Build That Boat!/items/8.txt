@@ -1,0 +1,6 @@
+Name=Freccia
+Description=In fondo sei come Cupido:/colpisci sempre al cuore,/cambia solo il risultato!
+isEquipable=0
+isConsumable=0
+armorValue=0
+durability=-1

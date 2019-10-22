@@ -1,0 +1,6 @@
+Name=Spada di Ferro
+Description=Una spada di ferro lavorato./Causa danni ingenti/ai nemici.
+isEquipable=1
+isConsumable=0
+armorValue=0
+durability=27
